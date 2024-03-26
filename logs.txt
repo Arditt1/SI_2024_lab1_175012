@@ -1,0 +1,35 @@
+commit 3ead8daf08f6f390558565ab9f5723b26d2036d8
+Author: ardit <ardit@edusoft.com.mk>
+Date:   Tue Mar 26 14:54:55 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit d7d582469b14e9786fda1c77ec9886830b63c509
+Author: ardit <ardit@edusoft.com.mk>
+Date:   Tue Mar 26 14:48:07 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit ada5134918320e7f85784e59f8a330fde184e69f
+Author: ardit <ardit@edusoft.com.mk>
+Date:   Tue Mar 26 14:53:02 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 35662b537c78b396a1c4240c506bce0e98334137
+Author: ardit <ardit@edusoft.com.mk>
+Date:   Tue Mar 26 14:46:11 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 84e4ba697ff8960f16ee18a0e9e8b51c34a13803
+Author: ardit <ardit@edusoft.com.mk>
+Date:   Tue Mar 26 14:39:23 2024 +0100
+
+    Add starter code
+
+commit 3eab4db0b9a950c0e085463fd5016b9c3648e814
+Author: ardit <ardit@edusoft.com.mk>
+Date:   Tue Mar 26 14:33:54 2024 +0100
+
+    Initial commit
